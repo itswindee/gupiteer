@@ -13,3 +13,5 @@
 <p>Integrating various APIs from different GPT platforms also posed complexities due to differing specifications and response formats. Our solution involved developing a unified API interface, implementing error handling, and fallback mechanisms to ensure seamless interaction.</p>
 
 <p>Lastly, creating a unified platform that integrated different GPTs while maintaining a consistent user experience was challenging. Adopting a modular design approach facilitated smooth integration and management of varied GPT capabilities, focusing on simplicity and flexibility in the user interface. In conclusion, strategic responses to these challenges not only resolved immediate issues but also contributed to the robustness and user-friendliness of GuPiTEER.</p>
+
+<h3>Link to the project's Devpolio: https://devfolio.co/projects/gupiteer-bcc3</h3>
