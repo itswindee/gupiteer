@@ -1,4 +1,4 @@
-# Gupiteer
+
 <h1>GuPiTeer</h1>
 <h2>GuPiTEER, an innovative platform with all-in-one access to a variety of GPT models, offers contextual chat history and a built-in validation system, empowering users with the future of generative AI.</h2>
 
